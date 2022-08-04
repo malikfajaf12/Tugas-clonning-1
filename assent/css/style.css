@@ -1,0 +1,346 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+}
+div.backgroundUtama{
+    width: 1920px;
+    height: 5858px; 
+    background-color: #FFF5EC;
+
+    margin: auto;
+}
+.garisBantu1 {
+    width: 1920px;
+    height: 128px;
+    /*border: 1px solid black;*/
+    display: flex;
+
+}
+.batas {
+    width: 960px;
+    height: 128px;
+    /*border: 1px solid blue;*/
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.button{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: -150px;
+    border: none;
+    background: none;
+    color: #2E266F;
+}
+.pp{
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    background: #ffffff;
+    border-radius: 50%;
+    margin-top: 34px;
+    margin-left: 695px;
+    z-index: 1;
+}
+.loginButton{
+    position: absolute;
+    font-size: 20px;
+    border: none;
+    background: none;
+    margin-left: 750px;
+    margin-top: 30px;
+    z-index: 1;
+    color: #FFF5EC;
+}
+.garisBantu2{
+    width: 1920px;
+    height: 920px;
+    /*border: 1px solid blue;*/
+    display: flex;
+}
+.kotak {
+    width: 960px;
+    height: 920px;
+    /*border: 1px solid maroon;*/
+}
+
+/*title, search dan gambar*/
+.title{
+    width: 562px;
+    height: 180px;
+    font-size: 72px;
+    color: #2E266F;
+
+    margin-top: 282px;
+    margin-left: 132px;
+}
+.search{
+    width: 670px;
+    height: 90px;
+    margin-left: 135px;
+    margin-top: -29px;
+    border: none;
+    border-radius: 15px;
+    color: black;
+
+    font-size: 30px;
+}
+.image1{
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    margin-left: 125px;
+    margin-top: 74px;
+    border-radius: 15px;
+
+    z-index: 1;
+}
+
+/*bagian 1*/
+.garisBantu3{
+    width: 1920px;
+    height: 206px;
+    /*border: 1px solid black;*/
+}
+.garisBantu4{
+    width: 1920px;
+    height: 1090px;
+    /*border: 1px solid blue;*/
+    display: flex;
+}
+.kotak2{
+    width: 960px;
+    height: 830px;
+    /*border: 1px solid red;*/
+}
+
+.title2{
+    width: 636px;
+    height: 62px;
+    font-size: 48px;
+    
+
+    margin-top: 70px;
+    margin-left: 190px;
+}
+.desain1{
+    width: 25px;
+    height: 140px;
+    background: #EFC81A;
+
+    margin-top: -130px;
+    margin-left: 135px;
+}
+.gambar2{
+    position: absolute;
+    width: 800px;
+    height: 800px;
+
+    margin-left: 135px;
+    z-index: 1;
+}
+.kalimat1{
+    width: 570px;
+    height: 146px;
+    font-size: 56px;
+
+    margin-left: 225px;
+    margin-top: 147px; 
+}
+.kalimat2{
+    width: 570px;
+    height: 64px;
+    font-size: 32px;
+
+    margin-left: 225px;
+    margin-top: 60px;
+}
+div.kotak2 button.LearnMore{
+    width: 200px;
+    height: 64px;
+    background: #EFC81A;
+    border: none;
+    border-radius: 16px;
+
+    margin-top: 50px;
+    margin-left: 225px;
+}
+div.kotak2 button.LearnMore  .input{
+    font-size: 20px;
+    text-decoration: none;
+    color: #FFF5EC;
+}
+
+/*Bagian 2*/
+.garisBantu5{
+    width: 1920px;
+    height: 206px;
+    /*border: 1px solid black;*/
+}
+.garisBantu6{
+    width: 1920px;
+    height: 1090px;
+    /*border: 1px solid blue;*/
+    display: flex;
+}
+.kotak3{
+    width: 960px;
+    height: 830px;
+    /*border: 1px solid red;*/
+}
+.title3{
+    width: 636px;
+    height: 62px;
+    font-size: 48px;
+
+    margin-top: 70px;
+    margin-left: 190px;
+}
+.desain2{
+    width: 25px;
+    height: 140px;
+    background: #EFC81A;
+
+    margin-top: -140px;
+    margin-left: 135px;
+}
+.gambar3{
+    position: absolute;
+    width: 800px;
+    height: 800px;
+
+    margin-left: 135px;
+    z-index: 2;
+}
+div.kotak3 .kalimat1{
+    width: 570px;
+    height: 146px;
+    font-size: 56px;
+
+    margin-left: 225px;
+    margin-top: 147px; 
+}
+div.kotak3 .kalimat2{
+    width: 570px;
+    height: 64px;
+    font-size: 32px;
+
+    margin-left: 225px;
+    margin-top: 60px;
+}
+div.kotak3 button.LearnMore{
+    width: 200px;
+    height: 64px;
+    background: #EFC81A;
+    border: none;
+    border-radius: 16px;
+
+    margin-top: 50px;
+    margin-left: 225px;
+}
+div.kotak3 button.LearnMore  .input{
+    font-size: 20px;
+    text-decoration: none;
+    color: #FFF5EC;
+}
+
+/*banyak gambar*/
+.garisBantu7{
+    width: 1920px;
+    height: 206px;
+    /*border: 1px solid black;*/
+}
+.garisBantu8{
+    width: 1920px;
+    height: 1050px;
+    /*border: 1px solid blue;*/
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.title4{
+    width: 636px;
+    height: 62px;
+    font-size: 48px;
+
+    margin-top: 70px;
+    margin-left: 190px;
+}
+.desain3{
+    width: 25px;
+    height: 140px;
+    background: #EFC81A;
+
+    margin-top: -140px;
+    margin-left: 135px;
+}
+
+/*footer*/
+.garisBantu9{
+    width: 1920px;
+    height: 685px;
+    background-color: #EFC81A;
+    padding: 0;
+    margin: 0;
+}
+div.garisBantu9 .kalimat1{
+    width: 587px;
+    height: 48px;
+    font-size: 72px;
+
+    margin-left: 676px;
+    padding-top: 247px;
+}
+div.garisBantu9 .kalimat2{
+    width: 472px;
+    height: 24px;
+    font-size: 24px;
+
+    padding-top: 0px;
+    margin-left: 750px;
+}
+div.kalimat3{
+    width: 434px;
+    height: 88px;
+    /*border: 1px solid black;*/
+    margin: auto;
+    margin-top: 210px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+
+    font-size: 16px;
+}
+
+/*design*/
+div.design1{
+    position: absolute;
+    width: 514px;
+    height: 1210px;
+    margin-left: 1406px;
+
+    top: 0px;
+    background: #EFC81A;
+}
+div.design2 {
+    position: absolute;
+    width: 514px;
+    height: 820px;
+    background: #EFC81A;
+
+    top: 2630px;
+}
+div.design3 {
+    position: absolute;
+    width: 683px;
+    height: 801px;
+    border: 8px solid #EFC81A;
+
+    margin-left: 338px;
+    top: 1420px;
+
+}
